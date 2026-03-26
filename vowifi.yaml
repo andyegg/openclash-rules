@@ -35,3 +35,8 @@ payload:
   - 'DOMAIN,epdg.epc.mnc001.mcc262.pub.3gppnetwork.org'
   - 'DOMAIN,ss.epdg.epc.geo.mnc002.mcc262.pub.3gppnetwork.org'
   - 'IP-CIDR,139.7.117.0/24,no-resolve'
+#U Mobile WiFi
+  - 'DOMAIN,epdg.epc.mnc018.mcc502.pub.3gppnetwork.org'
+  - 'DOMAIN,apple-es.u.com.my'
+  - 'IP-CIDR,123.136.110.0/24/24,no-resolve'
+  - 'IP-CIDR,123.136.100.0/24/24,no-resolve'
