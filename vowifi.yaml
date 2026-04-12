@@ -35,6 +35,10 @@ payload:
   - 'DOMAIN,epdg.epc.mnc001.mcc262.pub.3gppnetwork.org'
   - 'DOMAIN,ss.epdg.epc.geo.mnc002.mcc262.pub.3gppnetwork.org'
   - 'IP-CIDR,139.7.117.0/24,no-resolve'
+#O2 DE VoWiFi
+  - 'DOMAIN,epdg.epc.mnc003.mcc262.pub.3gppnetwork.org'
+  - 'IP-CIDR,213.20.0.0/16,no-resolve'
+  - 'IP-CIDR,62.52.52.0/24,no-resolve'
 #U Mobile WiFi
   - 'DOMAIN,epdg.epc.mnc018.mcc502.pub.3gppnetwork.org'
   - 'DOMAIN,apple-es.u.com.my'
